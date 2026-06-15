@@ -8,7 +8,7 @@ import { Experience } from './components/experience/experience';
 import { Projects } from './components/projects/projects';
 import { ProblemSolving } from './components/problem-solving/problem-solving';
 import { Contact } from './components/contact/contact';
-import { Footer } from './components/footer/footer';
+
 
 @Component({
   selector: 'app-root',
@@ -23,7 +23,7 @@ import { Footer } from './components/footer/footer';
     Projects,
     ProblemSolving,
     Contact,
-    Footer
+    
   ],
 
   templateUrl: './app.html',
