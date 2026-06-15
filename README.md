@@ -6,7 +6,7 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 Domains
 
-[developer-portfolio-mu-ebon.vercel.app](https://developer-portfolio.vercel.app)
+developer-portfolio-mu-ebon.vercel.app
 
 ## Development server
 
